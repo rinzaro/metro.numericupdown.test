@@ -12,5 +12,7 @@ namespace metro.numericupdown.test
         public string Name { get; set; }
 
         public byte Address { get; set; }
+
+        public byte Value { get; set; }
     }
 }
